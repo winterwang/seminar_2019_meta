@@ -1,0 +1,147 @@
+---
+title: "Meta analysis and systematic review"
+subtitle: "ピロリ菌セミナー"
+author: "王　超辰 | Chaochen Wang"
+date: "2019-02-18 pm"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    lib_dir: libs
+    nature:
+      countdown: 60000
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r xaringan-themer, include = FALSE}
+library(xaringanthemer)
+mono_light(
+  base_color = "#1c5253",
+  header_font_google = google_font("Josefin Sans"),
+  # text_font_google   = google_font("M PLUS Rounded 1c", "300", "300i"),
+  text_font_google = google_font("Noto Sans JP", "300", "300i"), 
+  code_font_google   = google_font("Droid Mono"),
+  text_bold_color = "#B03A2E",
+  title_slide_background_image = "pic/pylori.jpg"
+)
+# write_xaringan_theme(text_bold_color = "#FF4333")
+```
+
+
+class: middle
+# 目標 <br> objectives
+
+- 系統的レビューの概念を理解する <br> Understand basic ideas of systematic review.
+
+- 臨床疑問を定式化するアプローチを習得する <br> Learn how to formulate an appropriate review question?
+
+- プロトコールを書く理由とその重要性 <br> Why and how to write a protocol?
+
+- 論文の批判的吟味する <br> How to critically appraise studies?
+
+
+---
+class: middle, center, inverse
+
+# 系統的レビューとは？ <br> What is a systematic review?
+
+
+
+---
+class: middle
+
+
+## 系統的 <br> [Systematic](https://eow.alc.co.jp/search?q=systematic)
+
+〔方法や実行が〕体系立てられた、組織的な、手順どおりの
+
+- The manager told his staff to work in a more systematic way. : 支配人はスタッフにもっと系統立った方法で働くように言った。
+
+
+
+---
+class: middle
+
+## レビュー <br> [Review](https://eow.alc.co.jp/search?q=review)
+
+
+〔本，作品・公演などを〕批評［論評］する，批判的に吟味する．
+
+<br><br>
+--
+.center[![tired](pic/tired.gif)]
+
+
+
+---
+class: middle, center, inverse
+
+# Why do we need systematic review? 
+
+---
+class: top
+background-image: url("./pic/cit_added_FY.gif")
+background-position: 50% 90%
+background-size: contain
+
+# >1000 new articles/day 
+
+---
+class: center, middle
+background-image: url("./pic/tmi.gif")
+background-size: cover
+
+---
+class: middle, inverse, center
+
+# Most research publshed in medical journal is 
+
+--
+# too poorly done (全然だめ)
+
+--
+# or
+
+--
+# insufficiently relevant <br>(不十分)
+
+---
+class: middle, center
+background-image: url("./pic/ebm_pyramid.gif")
+background-size: cover
+
+---
+class: middle, center, inverse
+
+# 専門家の意見って何か問題があるの？<br>What's the problem with "expert opinion"?
+
+---
+class: middle, center
+background-image: url("./pic/experts.png")
+background-position: 50% 10%
+background-size: cover
+
+---
+class: middle, center, inverse
+background-image: url("./pic/linuspauling.jpg")
+background-position: 50% 50%
+background-size: cover
+
+
+---
+class: middle, center 
+
+## Nobel prize winning biochemist [**Linus Pauling**](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%83%8A%E3%82%B9%E3%83%BB%E3%83%9D%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0) used selective quotes from the medical literature to [**"prove"**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC431183/?tool=pmcentrez) his theory that
+
+--
+# Vitamin C helps you live longer and feel better
+
+
+---
+class: middle, center 
+
+### 後に，[**系統的レビュー**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2540847/pdf/bmj00457-0043.pdf)が報告され，<br>数多くの臨床試験のレポートの中に，<br>ビタミンCが風邪を予防できると書いてある<br>論文はわずか**2件**
+
+--
+### 残りの59件の文献によると，**ビタミンCの風邪予防効果はほぼプラセボと変わらない．**
