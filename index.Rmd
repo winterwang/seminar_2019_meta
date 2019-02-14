@@ -157,3 +157,93 @@ class: middle
 - アドバイスは時代より遅れている <br> their advice frequently **lags behind**
 
 - 最も優れたエビデンスと一致しない場合が多いだろう <br> **inconsistent** with the best available evidence.
+
+
+---
+class: middle
+
+## 系統的レビューで行うこと
+
+ある臨床疑問に対して，**今まで**わかる**すべての証拠**を
+
+- 見つける <br> locate 
+
+- 評価する <br> evaluate
+
+- 統合する <br> synthesize
+
+
+---
+class: middle 
+
+## 系統的レビューの特徴
+
+- 文献を探す戦略/手順は**系統的，包括的** <br> **systematic and comprehensive** (in its identification of literature)
+
+- 答えたい臨床疑問，使う文献資料，及び評価する・統合する手法は**明確でかつはっきりしたもの** <br> explicit in objectives, materials, and methods.
+
+- **再現**できる <br> **reproducible**
+
+- バイアスを**最小限**にする <br> **minimize bias**
+
+- **信頼できる**結論・エビデンスを提供する <br> provide **reliable** evidence/conclusions
+
+
+---
+class: center
+
+## どんな人でも，ステップをフォローすれば同じところまで行ける
+
+### Follow the steps, <br> everyone can have the same results. 
+
+--
+![dog stairs](./pic/dog-stairs.gif)
+
+
+
+---
+class: center, middle
+
+# The Cochrane Collaboration
+
+### [www.cochrane.org](https://www.cochrane.org/)
+
+![cochrane](./pic/cochrane.png)
+
+???
+International non-profit organisation that prepares, maintains, and disseminates systematic up-to-date reviews of health care interventions.
+
+---
+class:  middle
+
+## [Archibald Cochrane (1909–1988): the father of evidence-based medicine](https://academic.oup.com/icvts/article/18/1/121/674823)
+
+.center[![Archie Cochrane](./pic/ArchieCochrane.png)]
+
+
+> “It is surely a great criticism of our profession that we have not organised a **critical summary, by speciality and subspeciality**, adapted **periodically**, of all randomised controlled trials”. 
+
+> -- (Cochrane 1979)
+
+
+---
+class: middle, inverse, center
+
+# 臨床疑問の定式化 <br> Ask an answerable question
+
+--
+.center[![gunther](./pic/guntherquestion.gif)]
+
+---
+class: middle, 
+
+### 何かを比較したい時--**PICO** <br> controlled trials
+
+
+1. The **P**opulation/**P**articipant <br> Who are the relevant patients?
+
+2. The **I**ntervention <br> What is the exposure that you are interested in (drug, food, surgery, chemical)?
+
+3. The **C**omparator or **C**ontrol <br> What is the control or althernative exposure that you want to compare with the one you are interested in?
+
+4. The **O**utcome <br> What are the patient-relevant consequences of the exposure?
