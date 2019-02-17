@@ -34,9 +34,7 @@ class: middle
 
 - 系統的レビューの概念を理解する <br> Understand basic ideas of systematic review.
 
-- 臨床疑問を定式化するアプローチを習得する <br> Learn how to formulate an appropriate review question?
-
-- プロトコールを書く理由とその重要性 <br> Why and how to write a protocol?
+- 臨床疑問を定式化するアプローチを習得する <br> Learn how to formulate an appropriate review question.
 
 - 論文の批判的吟味する <br> How to critically appraise studies?
 
@@ -234,16 +232,226 @@ class: middle, inverse, center
 --
 .center[![gunther](./pic/guntherquestion.gif)]
 
+
+---
+class: middle, center
+
+## To assess the effects of 
+## [**XX Intervention or comparison**]
+## for 
+## [**XX health problem**] 
+## in 
+## [**XX types of people**]
+
 ---
 class: middle, 
 
-### 何かを比較したい時--**PICO** <br> controlled trials
+### 比較試験 -- **PICO** <br> controlled trials
 
 
 1. The **P**opulation/**P**articipant <br> Who are the relevant patients?
 
-2. The **I**ntervention <br> What is the exposure that you are interested in (drug, food, surgery, chemical)?
+22. The **I**ntervention <br> What is the exposure that you are interested in (drug, food, surgery, chemical)?
 
 3. The **C**omparator or **C**ontrol <br> What is the control or althernative exposure that you want to compare with the one you are interested in?
 
 4. The **O**utcome <br> What are the patient-relevant consequences of the exposure?
+
+
+
+
+---
+class: middle, center, inverse
+
+## 急性心筋梗塞の患者において，アスピリンは生存率を上げるか？<br>Does aspirin improve survival after acute mycardial infarction?
+
+???
+この質問は答える質問だと思いますか？
+
+---
+class: middle, inverse
+
+### (P)急性心筋梗塞の患者に，<br> (I)毎日一回アスピリンを投与することは <br> (C)毎日一回プラセボを投与すると比べ，<br> (O)5年間の生存率は高くなるか？
+
+
+
+---
+class: middle
+
+### 公衆衛生的な質問 -- **SPICE** <br> questions about public health interventions
+
+1. **S**etting:  What is the context of the question? <br> (e.g. European countries, low-middle income countries, Japan, etc.)
+
+2. **P**erspective: Who are the (potential) users of the outcomes?<br> (e.g. pregnant women, new-born babies, middle school students, etc.)
+
+2. **I**ntervention: What is the intervention to them?<br> (e.g. maternal handbook，screen and treatment of _H. pylori_, etc.)
+
+2. **C**omparison <br> What are the alternatives? (e.g. control groups without maternal handbook, or screen and treatment of _H. pylori_, etc.)
+
+3. **E**valuation <br> How to measure if the intervention is successful? (e.g. mortality rate of infants, vaccine rate of babies, gastric cancer in 10-20 years)
+
+
+---
+class: middle, center, inverse
+
+## 若者での喫煙をどうすれば防げる？<br> What is the best strategy to prevent smoking in young people/adolescents?
+
+???
+この質問は答える質問だと思いますか？
+
+
+---
+class: middle, center, inverse
+
+## Are mass media (or school-based or community-based) interventions effective in preventing smoking/lowering the prevalence of smokers in young people/adolescents in Japan?
+
+???
+Setting: in Japan
+
+Perspective: young people 
+
+Intervention: mass media (or school-based or community-based) interventions
+
+Comparison: without the interventions
+
+Evaluation: smokers proportion
+
+---
+class: middle
+
+### 関連する研究をすべて含む
+
+- 疑問に解答可能なエビデンスをすべて網羅する検索法：
+
+	- 電子検索(PubMed, EMbase, Cochrane library)
+	- 引用文献の検索(孫引き)
+	- ハンドサーチ
+	- 著者への問い合わせ
+
+- 検索方法を明記すること
+
+	- 除外基準
+	
+	- 2人以上が独立に検索し，同じ論文・研究を特定できるまで示す 
+	
+- 出版バイアスの分析
+
+---
+class: middle
+
+### 選んだ論文の批判的吟味する
+
+- 検索で選んだ論文の質をチェックすべき
+	- RCT(randomized controlled trial)のチェックポイントを使う
+	
+.center[![check](./pic/evaluation.png)]
+
+---
+class: middle
+
+### 研究結果の一貫性があるか
+
+- Forest plotを使うことが多い
+	- 推定値が同じ方向にあるか
+	- 95%信頼区間が重なるか
+	
+.center[![forest](./pic/forest.png)]
+
+
+---
+class: middle
+
+### 出版バイアス
+
+- 研究の規模（被験者数）と有効性（効果の大きさ）を使う
+	- 規模の小さい研究では，偶然大きな有効性が出やすい
+	
+.center[![bias](./pic/bias.png)]
+
+---
+class: middle 
+
+### 臨床シナリオ
+
+- あなたの父親が働く会社の健康保健組合では，40歳以上の家族なら無料で健康診断を受けられる．しかし，母親は健康診断は意味ないとしてずっと受けずにきた．
+
+- しかし，最近芸能人やスポーツ選手でも立て続けに癌になったり，死亡したケースもあったので，心配になった母親は医学部で学ぶあなたに，健康診断を受けたほうがいいのかを尋ねた．
+
+- あなたは，今日の実習を受けて，健康診断の有効性について系統的レビューの論文を探すことにした．
+
+
+---
+class: middle
+
+### 臨床疑問を定式化
+
+- これは健康診断の有効性についての疑問である．
+
+--
+	- (P)健常成人が，
+
+--
+	- (I)健康診断を受けると，
+
+--
+
+	- (C)健康診断を受けない場合に比べて，
+
+--
+
+	- (O)どれぐらい死亡率・罹患率が減るか？
+
+
+
+---
+class: middle 
+
+### エビデンスの検索
+
+- 健康診断のキーワード: health check, medical examination, medical checkup
+
+- 死亡・罹患率のキーワード：mortality, morbidity
+
+---
+class: top, inverse
+background-image: url("./pic/clinicalq.png")
+background-position: 60% 50%
+background-size: cover
+
+
+---
+class: top, inverse
+background-image: url("./pic/healthcheck.png")
+background-position: 20% 50%
+background-size: cover
+
+
+
+---
+class: top, inverse
+background-image: url("./pic/healthcheckcochrane.png")
+background-position: 20% 50%
+background-size: cover
+
+---
+class: top, inverse
+background-image: url("./pic/cochranReview.png")
+background-position: 20% 5%
+background-size: cover
+
+
+---
+class: middle, inverse, center
+
+# AUTHORS' CONCLUSIONS: 
+
+--
+## Systematic offers of health checks are unlikely to be beneficial and may lead to unnecessary tests and treatments.
+
+
+---
+class: middle, inverse, center 
+
+# Questions?
+
+![questions](./pic/questions.gif)
